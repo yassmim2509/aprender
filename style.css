@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: "Protest Riot";
+    font-size: 35px;
+  }
+  .menor {
+    font-size: 23px;
+    color: beige;
+  }
+  img {
+    height: 303px;
+  }
+  .cor1{
+    background-color: #FFCCA6;
+  }
+  .cor2{
+    color:#FDF2D5;
+  }
+  .cor3{
+    color: #FFDBA6 ;
+  }
+
+div{
+    justify-content: space-between;
+    display: flex;
+}
